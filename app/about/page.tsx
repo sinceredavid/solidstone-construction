@@ -17,12 +17,12 @@ export default function AboutPage() {
           <div className="flex flex-wrap items-center gap-4">
             <a
               className="bg-stone rounded-full px-6 py-3 text-sm font-semibold uppercase tracking-wide text-white"
-              href="tel:+15550192244"
+              href="tel:+61212345678"
             >
               Get a Free Quote
             </a>
             <div className="text-slate text-sm">
-              Call: (555) 019-2244
+              Call: (02) 1234 5678
             </div>
           </div>
         </div>

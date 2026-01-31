@@ -74,17 +74,27 @@ Create a clear, trustworthy landing page that explains who SolidStone Constructi
   - Basement finishing
   - Exterior upgrades (siding, decks, roofing)
 
-## Requirements
-- Responsive layout (mobile-first).
-- Fast load; no heavy video.
-- Simple contact form (name, phone/email, project type, message).
-- Clear service area and business hours.
-
-## Success Metrics
-- Quote form submissions per week.
-- Click-to-call rate on mobile.
-- Time on page and scroll depth.
-
-## Assumptions
-- Branding assets (logo, colors) can be provided later.
-- Initial copy is placeholder and will be refined.
+### Contact
+#### Contact Page Content
+- Contact Hero:
+  - Headline: Request a Free Quote
+  - Subhead: Tell us about your project and we’ll respond within 1 business day.
+  - CTA: Call (555) 019-2244
+- Get a Free Quote Form:
+  - Fields: Name, Phone or Email, Project Type, Message
+  - Helper text: Share scope, address, and ideal timeline.
+- Direct Contact (Call / Email):
+  - Phone: (555) 019-2244 (tap to call)
+  - Email: hello@solidstonebuild.com
+  - Note: Fast response during business hours.
+- Service Area:
+  - Serving the Greater Metro Area and surrounding neighborhoods.
+  - Ask about projects outside the core area.
+- Business Hours:
+  - Mon–Fri: 8:00am–6:00pm
+  - Sat: By appointment
+  - Sun: Closed
+- Trust & Credentials:
+  - Licensed and insured
+  - 20+ years of experience
+  - Warranty-backed workmanship
