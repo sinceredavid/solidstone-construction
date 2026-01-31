@@ -48,14 +48,31 @@ Create a clear, trustworthy landing page that explains who SolidStone Constructi
 - Values: safety, quality, communication.
 - Licenses/insurance badges.
 - CTA.
-
-### Contact
-- Simple form (name, phone/email, project type, message).
-- Phone + email + hours.
-- Service area / map (optional).
-
-## Primary CTA
-"Get a Free Quote" button + phone number.
+#### About Page Content (Homeowner-Focused)
+- Hero:
+  - Headline: Build or Renovate Your Home With Confidence
+  - Subhead: Solidstone Construction helps homeowners plan, build, and finish projects with clear pricing and clean workmanship.
+  - CTA: Get a Free Quote + phone
+- Who We Help:
+  - Homeowners who want a stress-free build or renovation (kitchens, bathrooms, additions, whole-home updates, exterior upgrades).
+- What Makes Us Different:
+  - Clear, written estimates
+  - Honest timelines and weekly updates
+  - Respectful crews and clean job sites
+  - Quality materials and skilled trades
+  - Final walkthrough to make sure you’re happy
+- Our Process (simple):
+  - Free consultation
+  - Site visit + estimate
+  - Plan + schedule
+  - Build + updates
+  - Final walkthrough
+- Services (short list):
+  - Home builds
+  - Additions
+  - Kitchen and bathroom remodels
+  - Basement finishing
+  - Exterior upgrades (siding, decks, roofing)
 
 ## Requirements
 - Responsive layout (mobile-first).

@@ -112,9 +112,12 @@ export default function ProjectsPage() {
               Request a portfolio tailored to your project type.
             </p>
           </div>
-          <button className="bg-stone rounded-full px-6 py-3 text-sm font-semibold uppercase tracking-wide text-white">
+          <a
+            className="bg-stone rounded-full px-6 py-3 text-sm font-semibold uppercase tracking-wide text-white"
+            href="tel:+15550192244"
+          >
             Get a Free Quote
-          </button>
+          </a>
         </div>
       </section>
     </div>

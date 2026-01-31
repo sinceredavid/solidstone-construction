@@ -15,9 +15,12 @@ export default function Home() {
             clean jobsite from start to finish.
           </p>
           <div className="flex flex-wrap items-center gap-4">
-            <button className="bg-stone rounded-full px-6 py-3 text-sm font-semibold uppercase tracking-wide text-white">
+            <a
+              className="bg-stone rounded-full px-6 py-3 text-sm font-semibold uppercase tracking-wide text-white"
+              href="tel:+15550192244"
+            >
               Get a Free Quote
-            </button>
+            </a>
             <div className="text-slate text-sm">
               Call: (555) 019-2244
             </div>
@@ -139,9 +142,12 @@ export default function Home() {
           day.
         </p>
         <div className="mt-6 flex flex-wrap items-center justify-center gap-4">
-          <button className="bg-clay rounded-full px-6 py-3 text-sm font-semibold uppercase tracking-wide text-white">
+          <a
+            className="bg-clay rounded-full px-6 py-3 text-sm font-semibold uppercase tracking-wide text-white"
+            href="tel:+15550192244"
+          >
             Get a Free Quote
-          </button>
+          </a>
           <span className="text-slate text-sm">
             (555) 019-2244
           </span>
