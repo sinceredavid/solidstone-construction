@@ -6,7 +6,7 @@ export default function AboutPage() {
           <p className="text-slate text-xs font-semibold uppercase tracking-[0.3em]">
             About SolidStone
           </p>
-          <h1 className="font-display text-stone text-4xl leading-tight md:text-6xl">
+          <h1 className="font-display text-stone text-3xl leading-tight md:text-5xl">
             Build or renovate your home with confidence.
           </h1>
           <p className="text-slate max-w-xl text-base leading-7 md:text-lg">
